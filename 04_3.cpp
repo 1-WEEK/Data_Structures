@@ -20,7 +20,7 @@ int levelSum(int n) {
 }
 void solve(int ARight, int ALeft, int TRoot)
 {
-    
+
 }
 int main()
 {
